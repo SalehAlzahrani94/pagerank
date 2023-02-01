@@ -1,3 +1,3 @@
 # pagerank
 
-game to improve mapping skills 
+this program for maping pages and the time alocated for that 
